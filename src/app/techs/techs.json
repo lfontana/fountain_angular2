@@ -1,0 +1,58 @@
+[
+  {
+    "key": "workingmansDead",
+    "title": "Workingman's Dead",
+    "logo": "http://www.popspotsnyc.com/workingmans_dead/WORKINGMANS_Cover_2.jpg",
+    "text1": "The fourth Grateful Dead studio album (1970).",
+    "text2": "Highlights include Uncle John's Band, New Speedway Boogie, Casey Jones and Cumberland Blues."
+  },
+  {
+    "key": "americanBeauty",
+    "title": "American Beauty",
+    "logo": "http://ecx.images-amazon.com/images/I/61tsCtsRwKL._SL500_.jpg",
+    "text1": "The fifth Grateful Dead studio album (1970).",
+    "text2": "Highlights include Box of Rain, Friend of the Devil, Sugar Magnolia, Ripple, Brokedown Palace and Truckin'."
+  },
+  {
+    "key": "wakeoftheFlood",
+    "title": "Wake of the Flood",
+    "logo": "http://cdn3.bigcommerce.com/s-w2ersy/products/2043/images/596/The_Grateful_Dead_Wak_of_the_Flood_AMA_Dune_Clove__59997.1433075404.1200.1200.jpg?c=2",
+    "text1": "The sixth Grateful Dead studio album (1973).",
+    "text2": "Highlights include Mississippi Half Step, Row Jimmy, Stella Blue, Eyes of the World and Let it Grow."
+  },
+  {
+    "key": "bluesforAllah",
+    "title": "Blues for Allah",
+    "logo": "http://www.tunescompany.com/authentic_vintage_album_cover_clocks_med/grateful_dead_-_blues_for_allah.jpg",
+    "text1": "The eighth Grateful Dead studio album (1975).",
+    "text2": "Highlights include Crazy Fingers, The Music Never Stopped, Help on the Way and Franklin's Tower."
+  },
+  {
+    "key": "terrapinStation",
+    "title": "Terrapin Station",
+    "logo": "http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/2-recreation-of-terrapin-station-album-cover-by-the-grateful-dead-ben-jackson.jpg",
+    "text1": "The ninth Grateful Dead studio album (1977).",
+    "text2": "Highlights include Estimated Prophet, Passenger, Samson & Delilah, Terrapin Station. 2004 bonus tracks: Peggy-O & Catfish John."
+  },
+  {
+    "key": "shakedownStreet",
+    "title": "Shakedown Street",
+    "logo": "http://st.hzcdn.com/simgs/85e16b4503e26e5f_4-8322/contemporary-artwork.jpg",
+    "text1": "The tenth Grateful Dead studio album (1978).",
+    "text2": "Highlights include Shakedown Street, Fire on the Mountain, I Need a Miracle. Stagger Lee and All New Minglewood Blues."
+  },
+  {
+    "key": "intheDark",
+    "title": "In the Dark",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/Grateful_Dead_-_In_the_Dark.jpg",
+    "text1": "The 12th Grateful Dead studio album (1987).",
+    "text2": "Highlights include Touch of Grey, Hell in a Bucket, West LA Fadeaway, Throwing Stones and Black Muddy River."
+  },
+  {
+    "key": "builttoLast",
+    "title": "Built to Last",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d5/Grateful_Dead_-_Built_to_Last.jpg",
+    "text1": "The 13th and final Grateful Dead studio album (1989).",
+    "text2": "Highlights include Foolish Heart, Just a Little Light, Victom or the Crime, Standing on the Moon and Picasso Moon."
+  }
+]
